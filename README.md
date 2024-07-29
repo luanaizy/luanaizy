@@ -1,5 +1,4 @@
-##Meu nome é Luana!
-#My name is Luana!
+Meu nome é Luana!
 
 - 🔭 Estagiando em Software Development (C++ e React)
 - 🌱 Estudando Engenharia de Computação (UFC)
@@ -25,6 +24,7 @@
   <a href="https://www.linkedin.com/in/luana-izy-veras-tavares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
 <!--
 Here are some ideas to get you started:
 
