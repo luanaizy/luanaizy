@@ -2,13 +2,29 @@
 
 ###
 
-<p align="center">My name is Luana, i'm a C++ developer ❤️</p>
+<p align="center">My name is Luana, i'm studying Computer Engineering in UFC 🌱</p>
 
 ###
 
-<p align="center">🔭 Inership in Diagnosis Software Development (C++ and React)<br>🌱 Studying Computer Engineering in UFC</p>
-
+<p align="center"> 
+  <div align="center">💻 8 month scholarship in Driver Project Development
+    <p>- C language</p>
+    <p>- Hal SPI functions</p>
+    <p>- Embedded systems</p>
+    <p>- Doxygen</p>
+  </div> 
+  <br>
+   <div align="center">🔭 8 month inership in Diagnosis Software Development
+     <p>- C++ and React Ts</p>
+     <p>- Git and Gitlab</p>
+     <p>- Jira</p>
+     <p>- Confluence</p>
+     <p>- Figma</p>
+   </div> 
+ </p> 
+  
 ###
+
 <div align="center"> 
   <a align="center" href="https://instagram.com/luanaizy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a align="center" href = "mailto:luanaizy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
