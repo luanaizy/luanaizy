@@ -6,22 +6,22 @@
 
 ###
 
-<p align="center"> 
-  <div align="center">💻 8 month scholarship in Driver Project Development
-    <p>- C language</p>
-    <p>- Hal SPI functions</p>
-    <p>- Embedded systems</p>
-    <p>- Doxygen</p>
-  </div> 
-  <br>
-   <div align="center">🔭 8 month inership in Diagnosis Software Development
-     <p>- C++ and React Ts</p>
-     <p>- Git and Gitlab</p>
-     <p>- Jira</p>
-     <p>- Confluence</p>
-     <p>- Figma</p>
-   </div> 
- </p> 
+
+<div align="center">💻 8 month scholarship in Driver Project Development
+  <p>- C language</p>
+  <p>- Hal SPI functions</p>
+  <p>- Embedded systems</p>
+  <p>- Doxygen</p>
+</div> 
+<br>
+ <div align="center">🔭 8 month inership in Diagnosis Software Development
+   <p>- C++ and React Ts</p>
+   <p>- Git and Gitlab</p>
+   <p>- Jira</p>
+   <p>- Confluence</p>
+   <p>- Figma</p>
+ </div> 
+
   
 ###
 
