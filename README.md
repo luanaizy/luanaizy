@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Luana, i'm studying Computer Engineering in UFC 🌱</p>
+<p align="center">My name is Luana, i'm studying Computer Engineering at UFC 🌱</p>
 
 ###
 
