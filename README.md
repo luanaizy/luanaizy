@@ -14,7 +14,7 @@
   <p>- Doxygen</p>
 </div> 
 <br>
- <div align="center">🔭 8 month inership in Diagnosis Software Development
+ <div align="center">🔭 1 year inership in Diagnosis Software Development
    <p>- C++ and React Ts</p>
    <p>- Git and Gitlab</p>
    <p>- Jira</p>
